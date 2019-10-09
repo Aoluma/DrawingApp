@@ -1,2 +1,0 @@
-# DrawingApp
-Created with CodeSandbox
